@@ -4,8 +4,8 @@ attempting to detect smart glasses nearby and warn you.
 *nearby-glasses-alert.pages.dev* is NOT RELATED TO MY PROJECT. They seem to hijack the name and try to make a quick profit from it. I do not endorse this.
 ---
 
-<img width="135" height="300" align ="right" alt="Screenshot Nearby Glasses" src="img/old/Screenshot%20Nearby%20Glasses%20(2).png" />
-<img width="135" height="300" align ="right" alt="Screenshot Nearby Glasses" src="img/Screenshot%20Nearby%20Glasses%20(2).png" />
+<img width="135" height="300" align ="right" alt="Screenshot Nearby Glasses classic" src="img/old/Screenshot%20Nearby%20Glasses%20(2).png" />
+<img width="135" height="300" align ="right" alt="Screenshot Nearby Glasses canary mode" src="img/Screenshot%20Nearby%20Glasses%20(2).png" />
 # ⚠ WARNING! ⚠ 
 **HARASSING someone because you think they are wearing a covert surveillance device can be a criminal offence. It may even be a more serious offence than using such a device. Please seek legal advise regarding your local laws on this matter.**
 ---
@@ -215,7 +215,7 @@ Please Note This app builds upon:
 
 ## Shoutouts
 - [@vfrmedia@social.tchncs.de](https://social.tchncs.de/@vfrmedia) for helping me with the warnings
-- [@mewsleah@meow.social](https://meow.social/@mewsleah) for pointing out the idea of a canary mode (yet to be implemented)
+- [@mewsleah@meow.social](https://meow.social/@mewsleah) for pointing out the idea of a canary mode
 - [@pojntfx](https://github.com/pojntfx) for pointing out my misunderstandings with licensing
 - [Sarah-Jane B.](https://www.linkedin.com/in/sarah-janeb/) for UX design tipps
 - Lena Radau for the translation to Spanish
