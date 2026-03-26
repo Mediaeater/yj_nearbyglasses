@@ -1,0 +1,1 @@
+NSBluetoothAlwaysUsageDescription = "该应用在运行时会通过蓝牙扫描附近的 BLE 广播";
